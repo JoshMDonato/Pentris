@@ -1,0 +1,5 @@
+#ifndef RESOURCE_RC
+#define RESOURCE_RC
+
+RC_ICON  ICON       "logo.ico"
+#endif //RESOURCE_RC
